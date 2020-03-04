@@ -1,7 +1,7 @@
 # boberSyslikovich
 
 
-***Program management: "Оля Скрипник";
+- Program management: "Оля Скрипник";
 Product management: "Лена Лутченко";
 Development: "Даня Бодня";
 Test: "Миша Абрамов";
